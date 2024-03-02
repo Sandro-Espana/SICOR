@@ -22,3 +22,5 @@ function conectarDB() {// Función para conectar a la base de datos
 
 
   module.exports = conectarDB(); //Exporta funcion para otros modulos
+
+  //esto es un comentario usando la terminal de visual 
