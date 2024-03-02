@@ -39,3 +39,5 @@ así como una función asíncrona (enviarRegistro) para enviar datos de registro
 al servidor utilizando Axios. También incluye manejo de errores y actualización
 del mensaje de registro en la interfaz de usuario en consecuencia.
 */
+
+// esto es un cambio para hacer el push
